@@ -14,7 +14,7 @@ void setup()
   lcd.clear();
   // Imprimir
   lcd.setCursor(0, 0);
-  lcd.print("LCD i2c ESP8266 ");
+  lcd.print("hola mundo ");
   lcd.setCursor(0, 1); // Segunda fila
   lcd.print("tecteach.net.ar ");
 }
